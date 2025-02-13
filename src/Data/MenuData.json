@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "ข้าวกะเพราหมูไม่มัน",
+    "type": "food",
+    "description": "ไข่ดาว ไข่เจียว ไข่ข้น +10 บาท",
+    "price": 55,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ข้าวสุกี้ยากี้หมู",
+    "type": "food",
+    "description": "ข้าวราดสุกี้ยากี้หมูสไตน์ญี่ปุ่น",
+    "price": 60,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ชาไทย",
+    "type": "drink",
+    "description": "ชาไทยเย็นกลิ่นหอมชื่นใจ ปั่น +10 บาท",
+    "price": 45,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ชาไทยลาเต้",
+    "type": "drink",
+    "description": "ชาไทยนมหอมมัน",
+    "price": 50,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ชาเขียว",
+    "type": "drink",
+    "description": "ชาเขียวเย็นเข้มข้นชื่นใจ",
+    "price": 45,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ขนมปังปิ้ง เนย+นม",
+    "type": "dessert",
+    "description": "ขนมปังปิ้งหอมหวาน",
+    "price": 35,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 7,
+    "name": "ขนมปังปิ้ง เนย+น้ำตาล",
+    "type": "dessert",
+    "description": "ขนมปังปิ้งหอมหวาน",
+    "price": 35,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 8,
+    "name": "ขนมปังปิ้ง เนย+ช๊อกโกแลต",
+    "type": "dessert",
+    "description": "ขนมปังปิ้งหอมหวาน",
+    "price": 35,
+    "image": "/image/testimg.jpg"
+  },
+  {
+    "id": 9,
+    "name": "ขนมปังปิ้ง เนย+โอวัลติน",
+    "type": "dessert",
+    "description": "ขนมปังปิ้งหอมหวาน",
+    "price": 35,
+    "image": "/image/testimg.jpg"
+  }
+]
