@@ -13,7 +13,7 @@
     "name": "ข้าวสุกี้ยากี้หมู",
     "type": "food",
     "description": "ข้าวราดสุกี้ยากี้หมูสไตน์ญี่ปุ่น",
-    "price": 60,
+    "price": 65,
     "image": "/MeawPonNum/image/testimg.jpg",
     "recommend": false
   },
@@ -76,7 +76,7 @@
     "name": "ชาไทย",
     "type": "drink",
     "description": "ชาไทยเย็นกลิ่นหอมชื่นใจ ปั่น +10 บาท",
-    "price": 45,
+    "price": 35,
     "image": "/MeawPonNum/image/testimg.jpg",
     "recommend": false
   },
@@ -85,7 +85,7 @@
     "name": "ชาไทยลาเต้",
     "type": "drink",
     "description": "ชาไทยนมหอมมัน",
-    "price": 50,
+    "price": 40,
     "image": "/MeawPonNum/image/testimg.jpg",
     "recommend": false
   },
@@ -94,7 +94,7 @@
     "name": "ชาเขียว",
     "type": "drink",
     "description": "ชาเขียวเย็นเข้มข้นชื่นใจ ปั่น +10 บาท",
-    "price": 45,
+    "price": 35,
     "image": "/MeawPonNum/image/testimg.jpg",
     "recommend": false
   },
