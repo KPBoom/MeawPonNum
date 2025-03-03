@@ -11,6 +11,10 @@ body {
   background-repeat: no-repeat; /* ไม่ให้รูปภาพแสดงซ้ำ */
   background-attachment: fixed; /* ให้พื้นหลังอยู่กับที่เมื่อ scroll */
   background-position: center;
+  margin: 0;
+  padding: 0;
+  width: 100%; 
+  overflow-x: hidden;
 }
 
 .logo {
