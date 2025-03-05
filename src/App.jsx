@@ -41,7 +41,7 @@ function App() {
   return (
     <Router>
       <div>
-        <AppBar position="static">
+        <AppBar position="static" sx={{ width: "100%" }}>
           <Toolbar>
             <Typography
               variant={isMobile ? "h6" : "h5"} // ปรับขนาดตัวอักษร
@@ -88,14 +88,14 @@ function App() {
             </IconButton>
           </Toolbar>
         </AppBar>
-        <Container maxWidth="md" sx={{ mt: 4 }}>
-          <Grid2 container spacing={2} justifyContent="center">
+        <Container maxWidth="md" sx={{ mt: 4, px: 0 }}>
+          <Grid2 container spacing={2} justifyContent="center" sx={{ mx: 0 }}>
             {filteredMenu.map(
               (
                 item // ใช้ filteredMenu
               ) => (
                 <Grid2 item xs={12} sm={6} md={4} key={item.id}>
-                  <Card sx={{ width: 250, height: 350 }}>
+                  <Card sx={{ width: 250, height: 350, mx: "auto" }}>
                     <CardMedia
                       component="img"
                       height="140"
